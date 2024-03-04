@@ -1,2 +1,3 @@
 # TA_L2AC_Assignment1
-uqsfqwcdxqwdvhv
+
+This is my Assignment 1: pdf, and code
